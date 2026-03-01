@@ -1,0 +1,7 @@
+{
+  "name": "Mutasem kit",
+  "description": "The ultimate AI-powered visual suite for modern creative professionals. Transform concepts into photorealistic masterpieces using Gemini\u0027s advanced image synthesis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
